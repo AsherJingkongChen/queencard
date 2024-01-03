@@ -19,7 +19,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/AsherJingkongChen/heart-attack-prediction-course-project.git"
+    "url": "https://github.com/AsherJingkongChen/queencard.git"
   },
   "scripts": {
     "build": "NODE_ENV=production bun run bun.config.ts",
